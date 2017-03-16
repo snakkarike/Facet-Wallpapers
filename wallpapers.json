@@ -1,0 +1,31 @@
+{ 
+	"wallpapers": 
+		[
+			{
+				"name": "ShotA",
+				"author": "Someone",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg"
+			},
+			{
+				"name": "ShotB",
+				"author": "Someone",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+				"dimensions": "3200x2560"
+			},
+			{
+				"author": "Someone",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+				"name": "ShotC",
+				"dimensions": "1280x720",
+				"copyright": "Credits to its creator"
+			},
+			{
+			    "name": "Skeletor",
+			    "author": "Justin M. Maller",
+			    "url": "https://github.com/snakkarike/Facet-Wallpapers/blob/master/WP_Skeletor-2560x1440_00236.jpg",
+			    "thumbnail": "https://github.com/snakkarike/Facet-Wallpapers/blob/master/WP_Skeletor-2560x1440_00236.jpg",
+			    "dimensions": "2560x1440",
+			    "copyright": "Credits to its creator"
+			},
+		]
+}
